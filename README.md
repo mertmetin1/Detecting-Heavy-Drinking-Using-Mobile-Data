@@ -1,7 +1,7 @@
 
-**
-[Prediction Heavy Drinking Using Mobile Data](https://github.com/mertmetin1/Detecting-Heavy-Drinking-Using-Mobile-Data/files/15411248/Prediction.Heavy.Drinking.Using.Mobile.Data.pdf)
-**
+
+## [Prediction Heavy Drinking Using Mobile Data](https://github.com/mertmetin1/Detecting-Heavy-Drinking-Using-Mobile-Data/files/15411248/Prediction.Heavy.Drinking.Using.Mobile.Data.pdf)
+
 ## Introduction
 
 This project aims to develop predictive models for detecting complications following a heart attack using mobile data. By leveraging accelerometer and transdermal alcohol content (TAC) data, we can identify heavy drinking episodes that may exacerbate health risks, particularly for college students during social events.
